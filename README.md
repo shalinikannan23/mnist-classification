@@ -46,11 +46,9 @@ Evaluate the model with the testing data
 Fit the model and predict the single input
 
 ## PROGRAM
-
+```python
 ### Name: SHALINI K
 ### Register Number: 212222240095
-
-```python
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
