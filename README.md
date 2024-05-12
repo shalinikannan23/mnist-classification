@@ -11,7 +11,8 @@ The MNIST dataset is a collection of handwritten digits. The task is to classify
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+I![image](https://github.com/shalinikannan23/mnist-classification/assets/118656529/0e505623-3af1-4a0c-ab08-1d61554d765d)
+
 
 ## DESIGN STEPS
 
